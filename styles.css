@@ -153,4 +153,7 @@ body {
     background-color: var(--botao-azul-efeito);
 }
 
-
+.rodape__logo {
+    width: 160px;
+    margin-bottom: 30px;
+}
