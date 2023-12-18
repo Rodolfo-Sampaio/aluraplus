@@ -18,7 +18,7 @@ Um website destinado à promoção da Alura Plus, uma plataforma de streaming qu
 <br>
 
 ### Tecnologias utilizadas nesse projeto ⚡
-<span style="letter-spacing: 10px;" width="60px">
+<span style="letter-spacing: 10px">
    <img src="https://skillicons.dev/icons?i=html" title="HTML" width="60px"/>
    <img src="https://skillicons.dev/icons?i=css" title="CSS" width="60px"/>
 </span>
