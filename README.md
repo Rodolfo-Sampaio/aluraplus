@@ -34,4 +34,9 @@ Um website destinado à promoção da Alura Plus, uma plataforma de streaming qu
 </a>
 
 [Monica Hillman](https://github.com/MonicaHillman)
+<br>
+<br>
+### "Hey, programador incrível! 💪 Bem-vindo à 'Arena de Desenvolvimento' dos Vingadores, onde até o Hulk aprende código! Se curtiu a missão, que tal unir forças? Dê aquele [`Follow`](https://github.com/Rodolfo-Sampaio) e vamos esmagar juntos os desafios do código! Até mais, que a força do HTML e o poder do CSS estejam com você, mesmo que você não goste quando está com raiva! 🦸‍♂️💻 #CodeSmash"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4caf50&height=100&section=footer" alt="Waving Capsule Render">
 
